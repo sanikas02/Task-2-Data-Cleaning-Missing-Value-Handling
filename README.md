@@ -54,12 +54,12 @@ Dataset quality improved after cleaning
 AI_ML_Task_2/
 │
 ├── dataset/
-│   └── house_prices.csv
+│   └── _medico.csv
 │
 ├── cleaned_dataset/
-│   └── house_prices_cleaned.csv
+│   └── medico_cleaned.csv
 │
-├── task2_cleaning.ipynb
+├── task2_dataclean.ipynb
 ├── README.md
 
 ✅ Outcome
